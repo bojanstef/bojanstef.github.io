@@ -1,0 +1,24 @@
+title: Bojan Stefanović
+email: bojanstef@protonmail.com
+description: >
+  I'm a full stack Swift developer and cryptocurrency connoisseur.
+  When I'm not programming I'm biking, working out, or caffeinating.
+  Feel free to reach out to me with any questions, my accounts are linked below.
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://bojan.xyz"
+twitter_username: bojanstef
+github_username:  bojanstef
+linkedin_username: bojanstef
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Collections
+collections:
+  projects:
+      output: true
+      permalink: /:path

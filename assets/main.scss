@@ -1,0 +1,37 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+//* { border: 1px solid red };
+
+.home-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.contact-list {
+    text-align: right;
+}
+
+.navbar {
+    border-bottom: 1px solid #e8e8e8;
+    min-height: 55.95px;
+    position: relative;
+}
+
+.project-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 100%;
+    margin: 0 0 40px 0; // extra bottom padding
+    padding: 0;
+}
+
+.project-list > li {
+    display: block;
+    list-style-type: none;
+    margin-right: 4px;
+}
