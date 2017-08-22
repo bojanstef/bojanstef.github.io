@@ -4,7 +4,7 @@ title:  "Broccoli"
 categories: project
 ---
 
-Broccoli is A mobile app for on-demand marijuana delivery. More info can be found on <a href="https://trybroccoli.com" target='\_blank'>https://trybroccoli.com.</a> If you would like to try the beta Tweet <a href="https://twitter.com/TryBroccoli" target="\_blank">@TryBroccoli</a>
+Broccoli is a mobile app for on-demand marijuana delivery. More info can be found on <a href="https://trybroccoli.com" target='\_blank'>https://trybroccoli.com.</a> If you would like to try the beta Tweet <a href="https://twitter.com/TryBroccoli" target="\_blank">@TryBroccoli</a>
 
 # Tools used
 - Swift and XCode
