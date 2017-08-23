@@ -1,34 +1,24 @@
 ---
 layout: project
+header: "Co-Founder & Software Engineer"
 title:  "Broccoli"
-categories: project
+permalink: "/broccoli"
+description: "Broccoli is a mobile app for on-demand marijuana delivery. More info can be found on <a href='https://trybroccoli.com' target='\_blank'>https://trybroccoli.com</a>."
 ---
-Broccoli is a mobile app for on-demand marijuana delivery. More info can be found on <a href="https://trybroccoli.com" target='\_blank'>https://trybroccoli.com.</a> If you would like to try the beta Tweet <a href="https://twitter.com/TryBroccoli" target="\_blank">@TryBroccoli</a>
+Broccoli is a mobile app for on-demand marijuana delivery. More info can be found on <a href='https://trybroccoli.com' target='\_blank'>https://trybroccoli.com</a>.
 
-<br />
+# Demo Videos
 
----
-
-<br />
-
-## Demo Videos
-
-# A new user signing up for the service
+### A new user signing up for the service
 <iframe src="https://drive.google.com/file/d/0B6qbeoHsBiPmWE1sUkx0bW5rWFE/preview" allowfullscreen frameborder="0" height="200"></iframe>
 
-# A verified user placing an order
+### A verified user placing an order
 <iframe src="https://drive.google.com/file/d/0B6qbeoHsBiPmOFRzRzdEc2VOdkk/preview" allowfullscreen frameborder="0" height="200"></iframe>
 
-# A delivery person accepting an order
+### A delivery person accepting an order
 <iframe src="https://drive.google.com/file/d/0B6qbeoHsBiPmTlZzVzdYeENYTHM/preview" allowfullscreen frameborder="0" height="200"></iframe>
 
-<br />
-
----
-
-<br />
-
-## Tools used
+# Tools used
 - <a href="https://swift.org/">Swift and Xcode</a>
 - <a href="https://firebase.google.com/">Google Firebase</a>
 - <a href="http://vapor.codes/">Vapor Framework</a>

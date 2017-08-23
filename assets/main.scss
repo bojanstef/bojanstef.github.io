@@ -4,34 +4,29 @@
 
 @import "minima";
 
-//* { border: 1px solid red };
-
-.home-container {
-    display: flex;
-    flex-direction: column;
+/* To prevent overscrolling both <html> and <body> tags need  */
+html {
+    overflow: hidden;
+    height: 100%;
 }
 
-.contact-list {
-    text-align: right;
+body {
+    overflow: auto;
+    height: 100%;
 }
 
-.navbar {
-    border-bottom: 1px solid #e8e8e8;
-    min-height: 55.95px;
-    position: relative;
+/* Container customized to be narrow */
+.container.narrow {
+    max-width: 800px;
 }
 
-.project-list {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    width: 100%;
-    margin: 0 0 40px 0; // extra bottom padding
-    padding: 0;
+/* Shadowing */
+.shadow {
+    -webkit-box-shadow: 0 6px 6px -6px #999;
+    -moz-box-shadow: 0 6px 6px -6px #999;
+    box-shadow: 0 6px 6px -6px #999;
 }
 
-.project-list > li {
-    display: block;
-    list-style-type: none;
-    margin-right: 4px;
+.centered {
+    text-align: center;
 }

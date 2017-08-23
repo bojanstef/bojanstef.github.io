@@ -1,9 +1,11 @@
 ---
 layout: project
+header: "Bot Manipulator"
 title:  "EtherUSD"
-categories: project
+permalink: "/etherusd"
+description: "The Twitter bot <a href='https://twitter.com/EtherUSD' target='\_blank'>@EtherUSD</a> tweets the current exchange rate of Ether to USD every twenty minutes."
 ---
-The Twitter bot <a href="https://twitter.com/EtherUSD" target='\_blank'>@EtherUSD</a> tweets the current exchange rate of Ether to USD every twenty minutes.
+The Twitter bot <a href='https://twitter.com/EtherUSD' target='\_blank'>@EtherUSD</a> tweets the current exchange rate of Ether to USD every twenty minutes.
 
 # Tools used
 - Node.js
