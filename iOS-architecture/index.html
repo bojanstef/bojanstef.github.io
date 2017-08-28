@@ -1,0 +1,35 @@
+---
+layout: default
+---
+<div class="container centered">
+    <div class="mermaid">
+        graph TD
+        subgraph Wireframe Generic
+            Interactor-->Presenter
+            Presenter-->ViewController
+        end
+    </div>
+</div>
+
+<div class="container centered">
+    <div class="mermaid">
+        graph TD
+        subgraph Interactor Example
+            DataManager-->URLSession
+            DataManager-->CoreData
+            LocationManager-->CoreLocation
+        end
+    </div>
+</div>
+
+<div class="container centered">
+    <div class="mermaid">
+        graph TD
+        subgraph Coordinator Tree Example
+            RootCoordinator-->AuthenticationCoordinator
+            RootCoordinator-->MainCoordinator
+            MainCoordinator-->HomeCoordinator
+            MainCoordinator-->TutorialCoordinator
+        end
+    </div>
+</div>
