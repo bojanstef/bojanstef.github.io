@@ -22,6 +22,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 home_url: /
 blog_url: /blog
 projects_url: /projects
+coffee_url: /coffee
 
 twitter_username: bojanstef
 github_username:  bojanstef
